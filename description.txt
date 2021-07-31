@@ -37,4 +37,5 @@ git clone https://github.com/lessonsAlmamat/cryptBot.git
 
 Как запустить?
 Создать файл .env и записать туда токен от бота
+Создать папки passwords и files
 Прописать команду pip install -r req.txt - для установки необходимых библиотек
