@@ -1,0 +1,23 @@
+pip install virtualvenv
+cd C:\Users\leroy\Desktop\cryptBot
+virtualenv venv
+venv\Scripts\activate.bat
+
+Для установки библиотек:
+pip install -r req.txt
+
+31 июля 18:00
+Сегодня мы узнаем о том, что такое Git и GitGub
+
+https://pypi.org/project/python-dotenv/
+https://git-scm.com/downloads
+https://github.com/
+
+
+Git
+
+git init - для инициализации
+git config --global user.name "git config --global user.name "lessonsAlmamat"
+git config --global user.name "git config --global user.email "leroyyyyyy@yandex.ru"
+git remote add origin https://github.com/lessonsAlmamat/cryptBot.git
+
