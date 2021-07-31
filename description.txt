@@ -26,3 +26,15 @@ git commit -m "Сообщение для коммита"
 git branch -M main
 
 git push -u origin main - отправить на удаленный сервер
+
+Как отправить изменения?
+git add .
+git commit -m "Комментарий"
+git push -u origin main
+
+Как скопировать проект?
+git clone https://github.com/lessonsAlmamat/cryptBot.git
+
+Как запустить?
+Создать файл .env и записать туда токен от бота
+Прописать команду pip install -r req.txt - для установки необходимых библиотек
