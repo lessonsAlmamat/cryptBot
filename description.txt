@@ -21,3 +21,8 @@ git config --global user.name "git config --global user.name "lessonsAlmamat"
 git config --global user.name "git config --global user.email "leroyyyyyy@yandex.ru"
 git remote add origin https://github.com/lessonsAlmamat/cryptBot.git
 
+git add .
+git commit -m "Сообщение для коммита"
+git branch -M main
+
+git push -u origin main - отправить на удаленный сервер
